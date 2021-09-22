@@ -1,0 +1,631 @@
+1 Rhox / Рокс 10e NM ru 32 
+1 Scion of the Wild / Дикий Отпрыск 10e SP ru 27 
+1 Upwelling / Подъем с Глубин 10e SP ru 111 
+2 Mahamoti Djinn / Джинн Магамоти 10e SP ru 22 
+1 Awakening Zone 2xm NM en 233 
+1 Mephidross Vampire 5dn SP en 295 
+3 All Suns' Dawn 5dn SP en 35 
+2 All Suns' Dawn 5dn NM en 35 
+2 Beacon of Creation 5dn SP en 1531 
+2 Bringer of the Green Dawn 5dn SP en 88 
+2 Bringer of the Green Dawn 5dn NM en 88 
+2 Rite of Passage 5dn SP en 317 
+3 Rude Awakening 5dn NM en 67 
+1 Tornado Elemental 5dn SP en 40 
+1 Tornado Elemental 5dn NM en 40 
+2 Blinkmoth Infusion 5dn NM en 150 
+2 Call of the Wild 6ed SP en 30 
+1 Hurricane / Ураган 6ed HP en 32 
+1 Nature's Resurgence 6ed SP en 31 
+4 Verduran Enchantress / Вердуранская чародейка 6ed SP en 229 
+1 Greed 7ed SP en 173 
+1 Ancient Silverback / Старый вожак горилл 7ed NM en 26 
+1 Elder Druid 7ed SP en 31 
+1 Elvish Archers 7ed SP en 32 
+2 Daring Apprentice / Способный ученик 7ed SP en 27 
+1 Vizzerdrix 7ed MP en 20 
+1 Purify 7ed SP en 30 
+1 Collective Unconscious 8ed SP en 187 
+1 Emperor Crocodile / Царь крокодилов 8ed SP en 24 
+2 Lhurgoyf 8ed SP en 33 
+1 Maro / Маро 8ed NM en 26 
+3 Primeval Force 8ed NM en 23 
+1 Rhox / Рокс 8ed SP en 29 
+2 Rhox / Рокс 8ed NM en 29 
+1 Thorn Elemental 8ed SP en 29 
+2 Thorn Elemental 8ed NM en 29 
+3 Verduran Enchantress / Вердуранская чародейка 8ed SP en 229 
+1 Vernal Bloom 8ed NM en 439 
+1 Inferno 8ed SP ru 28 
+2 Archivist / Архивариус 8ed SP en 30 
+3 Balance of Power 8ed SP en 29 
+1 Daring Apprentice / Способный ученик 8ed SP en 28 
+1 Deflection 8ed SP en 25 
+1 Fleeting Image / Мимолетное видение 8ed SP en 22 
+1 Fleeting Image / Мимолетное видение 8ed NM en 22 
+2 Mind Bend / Сгибание Разума 8ed SP en 27 
+2 Temporal Adept / Служитель времени 8ed SP en 31 
+1 Trade Routes / Торговые пути 8ed SP en 371 
+1 Blinding Angel / Ослепляющий ангел 8ed SP en 134 
+1 Maro / Маро 9ed NM en 26 
+1 Might of Oaks / Сила Дубов 9ed SP ru 30 
+1 Battle of Wits / Борьба Умов 9ed SP ru 30 
+1 Fleeting Image / Мимолетное видение 9ed SP ru 23 
+1 Battle at the Bridge / Битва на Мосту aer SP ru 24 
+1 Aid from the Cowl / Помощь из Покрова aer MP ru 26 
+1 Lifecrafter's Bestiary / Зверинец Жизнетворца aer SP en 88 
+1 Ebondeath, Dracolich / Темная Гибель, Драколич afr NM ru 476 
+1 The Tarrasque / Тараск afr NM ru 219 
+2 Evolving Wilds / Перерождающиеся Дебри afr NM ru 67 
+1 Plague Belcher / Моровый Изрыгатель akh SP ru 87 
+1 Champion of Rhonas / Поборница Ронаса akh NM ru 32 
+1 Channeler Initiate / Преобразующая Послушница akh NM ru 30 
+1 Honored Hydra / Почитаемая Гидра akh NM ru 29 
+1 Cut - Ribbons / Изрубить - В Куски akh NM ru 30 
+1 Harsh Mentor / Строгий Наставник akh SP ru 29 
+1 Commit - Memory / Сохранить - В Памяти akh NM ru 106 
+1 Failure - Comply / Неспособность - Подчиниться akh SP ru 22 
+1 Sheltered Thicket / Укрытая Поросль akh NM en 156 
+1 Feral Hydra / Лютая Гидра ala SP ru 60 
+1 Manaplasm / Манаплазма ala NM ru 26 
+1 Ooze Garden / Сад Тины ala SP ru 30 
+1 Skullmulcher / Перетиратель Черепов ala NM en 33 
+2 Skullmulcher / Перетиратель Черепов ala SP ru 31 
+1 Spearbreaker Behemoth / Ломающее Копья Чудище ala SP en 187 
+1 Covenant of Minds / Договор Умов ala SP ru 23 
+1 Skill Borrower / Заемщица Умений ala SP ru 30 
+1 Kavu Mauler apc SP en 24 
+1 Penumbra Wurm apc SP en 32 
+1 Mayael's Aria / Ария Майел arb SP ru 581 
+1 Druids' Repository / Друидский Склад avr SP en 149 
+1 Zealous Conscripts / Яростные Призывники avr SP ru 105 
+1 Generous Patron bbd NM en 173 
+1 Greenwarden of Murasa / Зеленый Страж Мурасы bfz MP ru 80 
+1 Nissa's Renewal / Обновление Ниссы bfz SP ru 27 
+1 Oran-Rief Hydra / Оран-Рифская Гидра bfz SP ru 33 
+1 Undergrowth Champion / Поборник Подлеска bfz SP ru 158 
+1 Omnath, Locus of Rage / Омнат, Очаг Ярости bfz SP ru 169 
+1 Exert Influence / Проявление Влияния bfz NM en 20 
+1 Scatter to the Winds / Развеять по Ветру bfz SP en 22 
+1 Arbiter of the Ideal / Судья Идеалов bng SP ru 22 
+1 Kyoki, Sanity's Eclipse bok SP en 65 
+1 Yukora, the Prisoner bok SP en 26 
+1 Kodama of the Center Tree bok SP en 31 
+1 Tidal Force c13 NM en 31 
+1 Uyo, Silent Prophet c13 SP en 31 
+1 Scavenger Grounds / Земли Падальщиков c20 NM ru 88 
+2 Night Dealings chk SP en 75 
+1 Kodama of the South Tree chk NM en 47 
+1 Shisato, Whispering Hunter chk SP en 40 
+1 Shisato, Whispering Hunter chk NM en 40 
+2 Hisoka, Minamo Sensei chk SP en 27 
+2 Part the Veil chk SP en 23 
+5 Swirl the Mists chk SP en 27 
+1 The Unspeakable chk SP en 29 
+1 The Unspeakable chk NM en 29 
+2 Time Stop / Остановка Времени chk SP en 250 
+2 Uyo, Silent Prophet chk SP en 31 
+1 Uyo, Silent Prophet chk NM en 31 
+1 Exotic Orchard cm2 NM en 62 
+1 Sengir, the Dark Baron cmr NM en FOIL 63 
+1 Rootweaver Druid cmr NM en 26 
+1 Sweet-Gum Recluse cmr NM en 26 
+1 Body of Knowledge cmr NM ru 31 
+1 Akroma's Will cmr NM en 298 
+2 Liesa, Shroud of Dusk cmr NM en 43 
+1 Kwain, Itinerant Meddler cmr NM en 23 
+1 Commander's Sphere cmr NM en FOIL 28 
+1 Cliffrunner Behemoth / Скальный Бегун con SP ru 26 
+1 Cylian Sunsinger / Силийская Воспевательница Солнца con NM ru 25 
+1 Ohran Viper / Оранская гадюка csp SP en 93 
+1 Lightning Serpent / Змей-молния csp SP ru 78 
+1 Scourge of Fleets / Бич Кораблей ddo SP en 31 
+1 Trait Doctoring / Врачевание Характера dgm SP ru 29 
+1 Unliving Psychopath / Неживой психопат dis SP en 26 
+1 Avatar of Discord / Аватара раздора dis SP en 54 
+1 Cytoplast Root-Kin / Цитопласт-коренник dis NM ru 36 
+1 Elemental Resonance / Резонанс со стихиями dis NM en 166 
+1 Govern the Guildless / Власть над безгильдейными dis SP en 25 
+1 Isperia the Inscrutable / Непостижимая Испирия dis SP ru 29 
+1 Call to the Kindred / Взывание к Родне dka SP ru 44 
+1 Havengul Lich / Хавенгульский Лич dka SP ru 240 
+1 Josu Vess, Lich Knight / Джозу Весс, Лич-Рыцарь dom SP ru 58 
+1 Yawgmoth's Vile Offering / Жестокое Предложение Ягмота dom SP ru 30 
+1 Kamahl's Druidic Vow / Друидский Обет Камаля dom NM ru 50 
+2 Territorial Allosaurus / Территориальный Аллозавр dom NM en 33 
+1 Territorial Allosaurus / Территориальный Аллозавр dom NM ru 33 
+2 The Mending of Dominaria / Исцеление Доминарии dom NM ru 32 
+2 Verdant Force / Зеленая Сила dom NM ru 32 
+1 Precognition Field / Поле Прорицания dom SP ru 31 
+1 Evra, Halcyon Witness / Эвра, Свидетельница Хальциона dom SP ru 24 
+1 Teshar, Ancestor's Apostle / Тешар, Апостол Прародительницы dom NM en 39 
+3 Ageless Entity dst NM en 44 
+2 Fangren Firstborn dst SP en 67 
+1 Fangren Firstborn dst NM en 67 
+5 Pulse of the Tangle dst SP en 26 
+1 Pulse of the Tangle dst NM en 28 
+3 Rebuking Ceremony dst SP en 26 
+2 Rebuking Ceremony dst NM en 26 
+2 Roaring Slagwurm dst SP en 26 
+1 Roaring Slagwurm dst NM en 26 
+1 Chromescale Drake dst SP en 27 
+2 Chromescale Drake dst NM en 27 
+1 Last Word dst NM en 63 
+3 Synod Artificer dst NM en 27 
+1 Wishclaw Talisman / Лапка Желаний eld NM ru 129 
+2 Stormfist Crusader / Крестоносец Кулака Бури eld NM ru 40 
+1 Beanstalk Giant / Великан Бобового Ростка eld NM ru 10 
+5 Feasting Troll King / Пирующий Король Троллей eld NM ru 132 
+1 Return of the Wildspeaker / Возвращение Дикоречивого eld NM ru 106 
+1 Yorvo, Lord of Garenbrig / Йорво, Лорд Гаренбрига eld NM ru 33 
+1 Irencrag Pyromancer / Айренкрагская Пиромантка eld NM ru 36 
+1 Escape to the Wilds / Побег в Дикие Дебри eld NM ru 39 
+1 Midnight Clock / Часы Полуночи eld NM ru 63 
+1 Lochmere Serpent / Лох-Мерский Змей eld NM ru 25 
+1 Giant Killer / Убийца Великанов eld NM ru 20 
+2 Doom Foretold / Предсказанная Погибель eld NM ru 31 
+1 Outlaws' Merriment / Разбойничье Веселье eld NM ru 122 
+1 Dance of the Manse / Свистопляска eld NM ru 40 
+1 Castle Ardenvale / Замок Арденвейл eld NM ru 135 
+1 Abundant Growth ema SP en FOIL 226 
+1 Serendib Efreet ema SP en 29 
+1 Identity Thief / Вор Личности emn SP ru 25 
+1 Farseek / Дальнее Странствие fnmp SP ru FOIL 683 
+0 Incendiary Flow / Испепеляющий Поток fnmp SP ru FOIL 26 
+1 Dovin's Veto / Вето Довина fnmp NM ru FOIL 209 
+1 Sage-Eye Avengers / Мстители Мудрого Ока frf SP en 21 
+1 Nihilith / Нигилит fut SP en 32 
+1 Shimian Specter / Шимийский Призрак fut SP ru 27 
+1 Take Possession / Одержимое Овладение fut MP ru 30 
+1 Bioplasm / Биоплазма gpt SP en 28 
+1 Bioplasm / Биоплазма gpt SP ru 26 
+1 Bioplasm / Биоплазма gpt NM ru 28 
+1 Charnel Troll / Тролль из Склепа grn NM ru 26 
+2 Find - Finality / Поиск - Приговор grn NM ru 25 
+2 Bounty of Might / Дар Могущества grn SP ru 17 
+1 Bounty of Might / Дар Могущества grn NM ru 22 
+1 Hatchery Spider / Паук Гнездовища grn NM ru 24 
+1 Dream Eater / Пожиратель Снов grn SP ru 70 
+1 Mission Briefing / Постановка Задачи grn NM en FOIL 185 
+1 Mission Briefing / Постановка Задачи grn NM en 78 
+1 Quasiduplicate / Квазидубликат grn NM ru 94 
+1 Connive - Concoct / Сговориться - Состряпать grn NM en 31 
+1 Connive - Concoct / Сговориться - Состряпать grn NM ru 31 
+1 Citywide Bust / Городская Облава grn NM ru 25 
+1 Dawn of Hope / Заря Надежды grn NM ru 170 
+1 Emmara, Soul of the Accord / Эммара, Душа Соглашения grn NM en 31 
+1 Emmara, Soul of the Accord / Эммара, Душа Соглашения grn NM ru 31 
+1 Aurelia, Exemplar of Justice / Аурелия, Образец Правосудия grn SP ru 122 
+1 Chance for Glory / Шанс на Подвиг grn SP ru 90 
+2 Response - Resurgence / Ответ - Обновление grn NM ru 25 
+1 Rubblehulk / Громадина из Обломков gtc MP ru 20 
+1 Apocalypse Demon / Демон Апокалипсиса hou SP ru 10 
+1 Hour of Promise / Час Завета hou SP en 88 
+1 Hour of Devastation / Час Разрушения hou SP ru 58 
+1 Swarm Intelligence / Разум Роя hou NM ru 31 
+1 Elder Druid ice SP en 31 
+1 Extinction Event / Вымирание iko NM ru 67 
+1 Hunted Nightmare / Загнанный Кошмар iko NM ru 21 
+1 Mythos of Nethroi / Сказание о Нетрое iko NM ru 37 
+1 Obosh, the Preypiercer / Обош, Пронзатель Дичи iko NM ru 37 
+1 Colossification / Колоссификация iko NM ru 33 
+1 Death's Oasis / Оазис Смерти iko NM ru 25 
+1 Saproling Infestation inv SP en 30 
+1 Distorting Wake inv SP en 31 
+1 Gutter Grime / Сточная Грязь isd SP en 32 
+3 Gutter Grime / Сточная Грязь isd SP ru 32 
+1 Kessig Cagebreakers / Кессигские Ломатели Клеток isd NM en 33 
+1 Splinterfright / Щепострах isd SP en 32 
+1 Stromkirk Noble / Дворянин из Рода Стромкирков isd SP ru 54 
+1 Mindshrieker / Мыслевизг isd SP en 41 
+1 Assault Formation jmp NM en 51 
+1 Towering Titan jmp SP en 172 
+1 Battlefield Thaumaturge / Боевой Тавматург jou SP ru 25 
+1 Daring Thief / Дерзкая Воровка jou SP ru 26 
+2 Erhnam Djinn jud SP en 28 
+1 Draugr Necromancer / Драуг-Некромант khm NM ru 31 
+1 Dream Devourer / Захватчик Снов khm NM ru 105 
+1 Grim Draugr / Зловещий Драуг khm NM ru FOIL 19 
+1 Haunting Voyage / Призрачное Путешествие khm NM ru 199 
+1 Sarulf, Realm Eater / Сарульф, Пожиратель Царств khm NM ru 58 
+1 The Bloodsky Massacre / Резня Кровавого Неба khm NM ru 22 
+1 Kolvori, God of Kinship / Колвори, Богиня Родства khm SP ru 33 
+1 Toski, Bearer of Secrets / Тоски, Хранитель Тайн khm NM ru 472 
+1 Toski, Bearer of Secrets / Тоски, Хранитель Тайн khm NM ru 484 
+1 Hagi Mob / Шайка Хаги khm NM ru FOIL 15 
+1 Magda, Brazen Outlaw / Магда, Дерзкая Разбойница khm NM ru 142 
+1 Reckless Crew / Удалая Команда khm NM ru 20 
+1 King Narfi's Betrayal / Предательство Короля Нарфи khm NM ru 23 
+2 Battle of Frost and Fire / Битва Мороза и Пламени khm NM ru 25 
+1 Resplendent Marshal / Блистательная Военачальница khm NM ru 77 
+1 Sigrid, God-Favored / Сигрид, Избранница Богов khm NM ru 28 
+1 Showdown of the Skalds / Состязание Скальдов khm NM ru 56 
+0 Faceless Haven / Безликое Убежище khm NM ru 376 
+1 Maskwood Nexus / Нексус Лихолесья khm NM ru 251 
+0 The World Tree / Мировое Древо khm NM ru 251 
+1 Tyrite Sanctum / Тиритовое Святилище khm NM ru 49 
+1 Architect of the Untamed / Архитектор Неукрощенных kld NM en 23 
+2 Bristling Hydra / Щетинистая Гидра kld NM en 29 
+2 Bristling Hydra / Щетинистая Гидра kld NM ru 29 
+1 Dubious Challenge / Сомнительный Вызов kld SP ru 24 
+1 Wildest Dreams / Предел Мечтаний kld SP en 33 
+3 Wildest Dreams / Предел Мечтаний kld SP ru 33 
+2 Aethersquall Ancient / Пращур Эфирных Бурь kld SP ru 22 
+1 Confiscation Coup / Заговор с Конфискацией kld NM ru 21 
+2 Saheeli's Artistry / Искусство Сахили kld NM ru 25 
+1 Meandering Towershell / Бродячая Гигантопаха ktk SP ru 23 
+1 Trail of Mystery / Тропа Тайны ktk SP en 25 
+1 Icy Blast / Ледяной Взрыв ktk SP ru 28 
+1 Thousand Winds / Тысяча Ветров ktk SP en 22 
+1 Tribal Forcemage lgn SP en 31 
+1 Cloudthresher / Облакохлест lrw SP en 33 
+2 Cloudthresher / Облакохлест lrw SP ru 33 
+1 Masked Admirers / Почитатели в Масках lrw SP en 28 
+2 Forced Fruition / Удовольствие Поневоле lrw SP ru 825 
+1 Ant Queen / Муравьиная Королева m10 NM ru 59 
+1 Lurking Predators / Притаившиеся Хищники m10 SP ru 450 
+1 Might of Oaks / Сила Дубов m10 SP ru 30 
+1 Leyline of Vitality / Лучи Жизнеспособности m11 SP ru 485 
+1 Protean Hydra / Многоликая Гидра m11 NM ru 326 
+1 Solemn Simulacrum / Величественный Симулякр m12 SP sp 125 
+1 Bogbrew Witch / Ведьма Болотного Зелья m14 SP ru 25 
+1 Oath of the Ancient Wood / Клятва Древнего Леса m14 SP ru 23 
+1 Clone / Клон m14 SP ru 31 
+1 Domestication / Одомашнивание m14 SP ru 20 
+1 Jace's Mindseeker / Мыслеискатель Джейса m14 SP ru 30 
+1 Genesis Hydra / Гидра Порождения m15 SP ru 47 
+1 Fraying Omnipotence / Угасающее Всемогущество m19 SP ru 30 
+1 Open the Graves / Разрывание Могил m19 NM ru 111 
+2 Goreclaw, Terror of Qal Sisma / Кровавая Лапа, Ужас Кэл-Сизма m19 NM ru 330 
+1 Hungering Hydra / Изголодавшаяся Гидра m19 NM ru 64 
+1 Prodigious Growth / Непомерный Рост m19 NM ru 27 
+1 Runic Armasaur / Рунический Армазавр m19 NM ru 218 
+1 Lathliss, Dragon Queen / Латлисс, Королева Драконов m19 SP ru 249 
+1 Djinn of Wishes / Джинн Желаний m19 SP ru 18 
+2 Metamorphic Alteration / Метаморфическое Преобразование m19 SP ru 26 
+1 Metamorphic Alteration / Метаморфическое Преобразование m19 NM ru 28 
+1 Sai, Master Thopterist / Сай, Мастер-Топтерист m19 NM en 240 
+1 Windreader Sphinx / Сфинкс, Предсказатель Ветров m19 NM ru 30 
+1 Ajani's Last Stand / Последний Бой Аджани m19 NM en 20 
+1 Isolate / Изоляция m19 NM ru 30 
+1 Mentor of the Meek / Наставник Кротких m19 SP ru 63 
+2 Transmogrifying Wand / Магический Жезл Пресуществления m19 SP ru 29 
+1 Embodiment of Agonies / Воплощение Мучений m20 NM ru 30 
+1 Vilis, Broker of Blood / Вилис, Кровавый Негоциант m20 NM ru 240 
+1 Cavalier of Thorns / Всадник Терновника m20 NM ru 146 
+1 Gargos, Vicious Watcher / Гаргос, Жестокий Стражник m20 NM ru 72 
+2 Gods Willing / Воля Богов m20 SP ru FOIL 30 
+1 Azusa, Lost but Seeking / Азуса, Потерянная, но Ищущая m21 NM ru 416 
+1 Chandra's Incinerator / Испепелитель Чандры m21 NM en 42 
+1 Chandra, Heart of Fire / Чандра, Сердце Огня m21 SP en 62 
+1 Subira, Tulzidi Caravanner / Субира, Караванщица Тулзиди m21 NM ru 26 
+1 Shacklegeist / Привидение Кандалов m21 NM ru 26 
+1 Teferi's Ageless Insight / Вневременное Провидение Тефери m21 NM ru 111 
+1 Basri's Lieutenant / Лейтенант Базри m21 NM ru 31 
+1 Containment Priest / Сдерживающая Священница m21 NM ru 60 
+1 Containment Priest / Сдерживающая Священница m21 NM ru 35 
+1 Nine Lives / Девять Жизней m21 NM ru 31 
+1 Runed Halo / Рунный Нимб m21 NM ru 30 
+1 Mazemind Tome / Фолиант Лабиринтов Разума m21 NM ru 109 
+1 Temple of Silence / Храм Безмолвия m21 NM ru 49 
+1 Dictate of Erebos mb1 NM en 826 
+1 The Gitrog Monster mb1 NM en 311 
+1 Greenbelt Rampager mb1 NM en 26 
+1 Shattering Spree mb1 NM ru 979 
+1 Mirror Entity mb1 NM en 133 
+1 Enchanted Evening mb1 NM ru 142 
+1 Coat of Arms mb1 NM ru 968 
+1 Helm of Awakening mb1 NM en 314 
+1 Tower of Eons mb1 NM ru 25 
+1 Nether Spirit / Глубинный Дух mh1 NM ru 26 
+1 Ayula's Influence / Влияние Аюлы mh1 NM ru 31 
+2 Ayula, Queen Among Bears / Аюла, Королева Среди Медведей mh1 NM ru 31 
+2 Genesis / Рождение mh1 NM ru 33 
+1 Pashalik Mons / Пашалик Монс mh1 NM ru 89 
+1 Spiteful Sliver / Злобная Щепка mh1 NM ru 98 
+1 Mirrodin Besieged / Осада Мирродина mh1 NM ru 80 
+1 Crashing Footfalls / Громовой Топот mh1 NM ru 266 
+1 Scrapyard Recombiner / Мусорный Перекомпоновщик mh1 SP ru 37 
+1 Nested Shambler / Гнездовой Шаркун mh2 NM ru FOIL 15 
+1 Titania, Protector of Argoth / Титания, Защитница Аргота mh2 NM ru 140 
+1 Bloodbraid Marauder / Кровавокосый Мародер mh2 NM ru 25 
+1 Obsidian Charmaw / Обсидиановый Огнеглот mh2 NM ru 32 
+1 Knighted Myr / Посвященный в Рыцари Миэр mh2 NM ru FOIL 15 
+1 Nykthos Paragon / Эталон Никтоса mh2 NM ru 31 
+1 Ornithopter of Paradise / Райский Орнитоптер mh2 NM ru 22 
+1 Resurgent Belief / Возрождение Веры mh2 NM ru 47 
+1 Ramunap Excavator / Рамунапский Землекоп mlp SP ru FOIL 295 
+1 Simic Ascendancy / Возвышение Симиков mlp NM ru FOIL 189 
+1 Firemind's Research / Исследования Огненного Разума mlp NM ru FOIL 30 
+1 Explore mm3 NM en FOIL 96 
+3 Copperhoof Vorrac mrd SP en 32 
+1 Copperhoof Vorrac mrd NM en 32 
+1 Hum of the Radix mrd SP en 32 
+4 Hum of the Radix mrd NM en 34 
+3 Living Hive mrd SP en 34 
+1 Molder Slug mrd MP en 37 
+2 Molder Slug mrd NM en 39 
+2 Plated Slagwurm mrd SP en 29 
+1 Troll Ascetic / Тролль-Аскет mrd SP en 42 
+5 Lumengrid Augur mrd SP en 21 
+2 March of the Machines / Шествие Машин mrd NM en 46 
+1 Quicksilver Elemental mrd NM en 57 
+4 Shared Fate mrd SP en 52 
+4 Temporal Cascade mrd SP en 31 
+1 Cloudpost mrd SP en 54 
+4 Saproling Cluster nms SP en 30 
+1 Phyrexian Swarmlord / Фирексийский Повелитель Роя nph SP ru 438 
+1 Chancellor of the Spires / Канцлер Шпилей nph SP en 35 
+1 Terravore ody MP en 181 
+1 Rakdos Firewheeler / Огненный Акробат Ракдосов ohp SP ru FOIL 26 
+2 Death Match ons SP en 31 
+1 Doomed Necromancer / Обреченный Некромант ons SP en 101 
+1 Silent Specter ons SP en 45 
+1 Animal Magnetism ons SP en 25 
+2 Elvish Vanguard ons SP en 111 
+1 Silklash Spider / Паук-Шелкопряд ons SP en 33 
+1 Stag Beetle ons SP en 37 
+1 Symbiotic Wurm ons SP en 42 
+1 Weird Harvest / Странный урожай ons SP en 194 
+1 Clone / Клон ons SP en 33 
+1 Peer Pressure ons SP en 39 
+1 Gaea's Revenge / Месть Геи ori SP ru 30 
+1 Honored Hierarch / Почтенный Иерарх ori NM ru 26 
+1 Nissa's Revelation / Откровение Ниссы ori SP ru 26 
+2 Nissa's Revelation / Откровение Ниссы ori NM ru 26 
+1 Outland Colossus / Колосс Дальнего Края ori SP en 23 
+1 Outland Colossus / Колосс Дальнего Края ori NM en 23 
+1 Zendikar's Roil / Великий Вал Зендикара ori SP ru FOIL 406 
+1 Psychic Theft pcy SP en 30 
+2 Fungal Behemoth / Плесневый Бегемот plc SP ru 67 
+2 Gaea's Anthem / Гимн Геи plc SP ru 50 
+2 Magus of the Library / Волхв Библиотеки plc SP en 33 
+2 Magus of the Library / Волхв Библиотеки plc SP ru 33 
+1 Timbermare / Древоконь plc SP en 30 
+2 Aeon Chronicler / Летописец Эонов plc SP en 27 
+1 Body Double / Двойные Телеса plc SP en 94 
+1 Dichotomancy / Дихотомия plc NM ru 26 
+1 Magus of the Bazaar / Волхв Восточного Базара plc SP en 38 
+1 Serendib Sorcerer / Серендибский Волшебник plc SP ru 27 
+1 Magnigoth Treefolk pls SP en 31 
+3 Quirion Dryad / Квирионская Дриада pls MP en 33 
+1 Disfigure / Обезобразить pp1 NM ru 31 
+1 Embodiment of Agonies / Воплощение Мучений pp1 NM ru 30 
+1 Shared Summons / Разделенный Призыв pp1 NM ru 205 
+2 Flame Sweep / Сметающее Пламя pp1 NM ru 30 
+1 Thunderkin Awakener / Громорожденный Пробудитель pp1 NM ru 62 
+1 Spell Swindle / Стянуть Заклинание pp1 NM ru 331 
+2 Corpse Knight / Труп Рыцаря pp1 NM ru 92 
+1 Knight of Autumn / Рыцарь Осени pp1 NM ru 145 
+1 Wishclaw Talisman / Лапка Желаний pp2 NM ru 153 
+1 Gilded Goose / Золоченая Гусыня pp2 NM ru 265 
+1 Kenrith's Transformation / Преображение Кенрита pp2 NM ru 99 
+1 Enter the God-Eternals / Явление Вековечных Богов pp2 NM ru 63 
+1 Thief of Sanity / Вор Рассудка pp2 NM ru 106 
+1 Inspiring Veteran / Вдохновляющий Ветеран pp2 NM ru 31 
+1 Castle Embereth / Замок Эмберет pp2 NM ru 60 
+2 Ritual of Soot / Ритуал Сажи pp3 NM ru 30 
+1 Guardian Project / Проект «Стражник» pp3 NM ru 848 
+1 Nylea's Intervention / Вмешательство Нилеи pp3 NM ru 74 
+1 Protean Thaumaturge / Многоликий Тавматург pp3 NM ru 28 
+2 Alseid of Life's Bounty / Альсеид Щедрости Жизни pp3 NM ru 115 
+1 Dawn of Hope / Заря Надежды pp3 NM ru 177 
+1 Elspeth Conquers Death / Элспет Превозмогает Смерть pp3 NM ru 110 
+1 Temple of Plenty / Храм Изобилия pp3 NM ru 80 
+1 Chevill, Bane of Monsters / Чевилл, Бич Монстров pp4 NM ru 190 
+3 Migration Path / Путь Миграции pp4 NM ru 104 
+1 Everquill Phoenix / Феникс Вечного Пера pp4 NM ru 26 
+1 Bonders' Enclave / Анклав Узомантов pp4 NM ru 154 
+1 Eliminate / Изничтожить pp5 NM ru FOIL 194 
+1 Eliminate / Изничтожить pp5 NM ru 63 
+1 Feline Sovereign pp5 NM ru 66 
+1 Llanowar Visionary / Лановарский Провидец pp5 NM ru 56 
+1 Conspicuous Snoop pp5 NM ru 125 
+1 Heartfire Immolator / Возжигатель Огня Сердца pp5 NM ru FOIL 37 
+1 Frantic Inventory / Лихорадочные Сборы pp5 NM ru 46 
+1 Baneslayer Angel pp5 NM ru 264 
+1 Selfless Savior / Самоотверженный Спаситель pp5 NM ru FOIL 104 
+1 Astral Drift / Астральный Полет ptc NM ru FOIL 70 
+1 Hunted Horror / Загнанный ужас rav SP en 363 
+1 Primordial Sage / Исконный мудрец rav SP en 105 
+2 Vinelasher Kudzu / Хлесткие плети Кудзу rav SP en 32 
+1 Vinelasher Kudzu / Хлесткие плети Кудзу rav SP ru 32 
+1 Followed Footsteps / По следам rav SP en 188 
+1 Spawnbroker / Торговец живностью rav SP en 31 
+2 Dead Man's Chest / Сундук Мертвеца rix NM ru 31 
+1 Tetzimoc, Primal Death / Тецимок, Первозданная Смерть rix SP ru 34 
+1 Vona's Hunger / Голод Воны rix NM en 233 
+2 Angrath's Fury / Ярость Анграта rix SP ru 24 
+1 World Shaper / Заклинатель Мира rix NM en 287 
+2 Crafty Cutpurse / Находчивая Карманница rix NM ru 31 
+1 Induced Amnesia / Наведенная Амнезия rix SP ru 22 
+1 Induced Amnesia / Наведенная Амнезия rix NM ru 23 
+1 Warkite Marauder / Мародер с Боевым Змеем rix NM en 92 
+1 Slaughter the Strong / Истребление Сильных rix NM ru 41 
+2 Temple Altisaur / Храмовый Альтизавр rix SP ru 59 
+1 Arch of Orazca / Арка Ораски rix SP ru 59 
+1 Silent Gravestone / Тихое Надгробие rix SP ru 30 
+1 Pestilent Spirit / Болезнетворный Дух rna NM ru 30 
+2 Guardian Project / Проект «Стражник» rna SP ru 751 
+2 Guardian Project / Проект «Стражник» rna NM ru 796 
+1 Incubation Druid / Друид Инкубации rna SP ru 79 
+1 Rampage of the Clans / Неистовство Кланов rna NM en 32 
+1 Rampage of the Clans / Неистовство Кланов rna NM ru 32 
+2 Amplifire / Сверхогонь rna SP ru 26 
+1 Cindervines / Пепельные Лианы rna NM ru 79 
+1 Domri, Chaos Bringer / Домри, Несущий Хаос rna NM ru 101 
+1 Ravager Wurm / Вурм-Опустошитель rna SP ru 52 
+2 Verity Circle / Круг Истины rna NM ru 31 
+2 Simic Ascendancy / Возвышение Симиков rna NM ru 142 
+2 Tithe Taker / Настойчивый Десятинник rna SP ru 63 
+1 Lavinia, Azorius Renegade / Лавиния, Отступница Азориусов rna SP ru 49 
+1 Gelatinous Genesis / Студенистое Зарождение roe SP ru 62 
+1 Kazandu Tuskcaller / Вызывательница Бивней из Казанду roe SP ru 31 
+1 Momentous Fall / Судьбоносное Падение roe SP ru 87 
+1 Echo Mage / Эхомаг roe SP ru 34 
+1 Conjured Currency / Волшебные Деньги rtr SP ru 25 
+2 Consumptive Goo scg SP en 30 
+1 Ancient Ooze scg SP en 86 
+1 Decree of Savagery scg SP en 51 
+1 Root Elemental scg SP en 25 
+2 Faces of the Past scg SP en 63 
+1 Dusk Urchins / Сумеречные Урчины shm SP ru 295 
+1 Spiteful Visions / Злобные Видения shm SP ru 156 
+1 Mossbridge Troll / Тролль Замшелого Моста shm SP ru 183 
+1 Knacksaw Clique / Вооруженная Пилами Клика shm SP ru 250 
+1 Triskaidekaphobia / Трискаидекафобия soi SP en 23 
+1 Second Harvest / Второй Урожай soi NM ru 331 
+1 Soul Swallower / Пожиратель Душ soi SP ru 22 
+1 Soul Swallower / Пожиратель Душ soi NM ru 22 
+1 Ulvenwald Hydra / Уленвальдская Гидра soi SP en 235 
+1 Game Trail / Звериная Тропа soi SP ru 111 
+1 Akuta, Born of Ash sok SP en 30 
+1 Choice of Damnations sok SP en 765 
+1 Sasaya, Orochi Ascendant sok SP en 206 
+1 Hand of the Praetors / Рука Преторов som SP en 314 
+1 Painful Quandary / Тягостное Положение som SP ru 998 
+1 Engulfing Slagwurm / Шлаковый Вурм-Поглотитель som NM ru 59 
+1 Shape Anew / Сформировать Заново som SP en 27 
+1 Village Rites sta NM ru 20 
+1 Adventurous Impulse sta NM ru 15 
+1 Snakeskin Veil sta NM ru 18 
+2 Claim the Firstborn sta NM ru 14 
+1 Shock sta NM ru 14 
+1 Thrill of Possibility sta NM ru 14 
+1 Negate sta NM ru 26 
+1 Opt sta NM ru 27 
+1 Growth Spiral sta NM ru 67 
+1 Baleful Mastery / Злобное Мастерство stx NM ru 105 
+1 Mage Hunter / Охотник на Магов stx NM ru FOIL 15 
+1 Oriq Loremage / Ведомаг Орика stx NM ru 32 
+1 Culling Ritual / Ритуал Выбраковки stx NM ru 182 
+1 Gnarled Professor / Узловатый Профессор stx NM ru 25 
+1 Mage Duel / Дуэль Магов stx NM ru FOIL 15 
+1 Conspiracy Theorist / Теоретик Заговоров stx NM ru 33 
+1 Ingenious Mastery / Гениальное Мастерство stx NM ru 22 
+1 Uvilda, Dean of Perfection / Увильда, Декан Совершенства stx NM ru 23 
+1 Sparring Regimen / Режим Тренировок stx NM ru 22 
+1 Strict Proctor / Строгая Наблюдательница stx NM ru 54 
+1 Dramatic Finale / Драматический Финал stx NM ru 31 
+1 Extus, Oriq Overlord / Эктус, Повелитель Орика stx NM ru 168 
+1 Vanishing Verse / Строфа Исчезновения stx NM ru 151 
+1 Furycalm Snarl / Яромирное Сплетение stx NM ru 128 
+1 Hall of Oracles / Зал Оракулов stx NM ru 27 
+1 Necroblossom Snarl / Смертецветущее Сплетение stx NM ru 168 
+1 Wandering Archaic / Бродячий Древний stx NM ru 449 
+1 Gravebreaker Lamia / Ламия, Вскрывающая Могилы thb NM ru 30 
+2 Tymaret Calls the Dead / Тимарет Созывает Мертвых thb NM ru 23 
+1 Tymaret, Chosen from Death / Тимарет, Избранный в Смерти thb NM ru 15 
+3 Mantle of the Wolf / Одеяние Волка thb NM ru 22 
+1 Nylea's Intervention / Вмешательство Нилеи thb NM ru 44 
+1 Anax, Hardened in the Forge / Анакс, Закаленный в Кузне thb NM ru 21 
+1 Ashiok's Erasure / Стирание Ашиока thb NM ru 25 
+1 Protean Thaumaturge / Многоликий Тавматург thb NM ru 22 
+1 Thryx, the Sudden Storm / Трикс, Внезапный Шторм thb NM ru 32 
+1 Wavebreak Hippocamp / Волноломный Гиппокамп thb NM ru 25 
+1 Enigmatic Incarnation / Загадочное Воплощение thb NM ru 27 
+1 Archon of Sun's Grace / Архонт Милости Солнца thb NM ru 43 
+1 Prognostic Sphinx / Сфинкс-Провидец ths SP en 24 
+1 Temple of Deceit / Храм Обмана ths NM jp 94 
+1 Nantuko Blightcutter tor SP en 27 
+1 Nostalgic Dreams tor SP en 283 
+2 Alter Reality tor SP en 59 
+1 Call of the Herd / Зов Стада tsb SP ru 32 
+1 Merieke Ri Berit / Мерики Ри Берит tsb MP ru 310 
+1 Lim-Dûl the Necromancer / Лим-Дул, Некромант tsp SP ru 125 
+1 Magus of the Mirror / Волхв Зеркала tsp SP en 31 
+1 Magus of the Mirror / Волхв Зеркала tsp SP ru 31 
+1 Magus of the Candelabra / Волхв Канделябры tsp SP ru 77 
+0 Spectral Force / Спектральная Сила tsp MP en 28 
+1 Spectral Force / Спектральная Сила tsp SP en 28 
+1 Spectral Force / Спектральная Сила tsp SP ru 28 
+1 Spike Tiller / Колючий Культиватор tsp SP en 26 
+1 Squall Line / Шквальный Порыв tsp SP en 166 
+1 Stonewood Invocation / Стоунвудская Мольба tsp SP en 75 
+1 Wurmcalling / Зов Червей tsp SP en 77 
+1 Wurmcalling / Зов Червей tsp NM ru 77 
+2 Magus of the Jar / Волхв Кувшина tsp SP en 163 
+1 Magus of the Jar / Волхв Кувшина tsp SP ru 163 
+1 Moonlace / Цвета Луны tsp SP en 31 
+1 Vesuvan Shapeshifter / Везуванский Oборотень tsp SP en 42 
+1 Vesuvan Shapeshifter / Везуванский Oборотень tsp SP ru 42 
+1 Dralnu, Lich Lord / Дралну, Лорд Лич tsp SP en 62 
+1 Harvester of Souls / Пожинатель Душ tsr NM ru 70 
+1 Fungus Sliver / Плесневая Щепка tsr NM ru FOIL 93 
+1 Fungus Sliver / Плесневая Щепка tsr NM ru 49 
+1 Scryb Ranger / Скрибский Лесничий tsr NM ru FOIL 86 
+1 Boom - Bust / Бум - Разгром tsr NM ru 42 
+1 Dead - Gone / Мертвец - Усопший tsr NM ru 14 
+1 Sedge Sliver / Осоковая Щепка tsr NM ru 63 
+1 Draining Whelk / Канализационный Прыщ (Брюхоногий Паразит) tsr NM ru 31 
+1 Jhoira of the Ghitu / Джойра из Гиту tsr NM ru 31 
+1 Mangara of Corondor / Мангара из Корондора tsr NM ru 25 
+1 Porphyry Nodes / Узлы Порфира tsr NM ru 31 
+1 Generator Servant uma NM en FOIL 25 
+1 Hidden Predators usg SP en 32 
+1 Nissa, Vastwood Seer / Нисса, Провидица Широколесья v17 NM en FOIL 887 
+1 Nightmare / Кошмар w17 MP ru 5 
+1 Sphinx of Magosi / Сфинкс Магоси w17 MP ru 15 
+1 Victory's Herald / Вестник Победы w17 SP ru 23 
+1 Command the Dreadhorde / Повелевание Ордой Ужаса war NM ru 59 
+1 Deliver Unto Evil / Низвергнуть во Зло war SP ru 22 
+1 Deliver Unto Evil / Низвергнуть во Зло war NM ru 23 
+1 Dreadhorde Invasion / Вторжение Орды Ужаса war NM ru 58 
+1 Casualties of War / Жертвы Войны war NM ru 71 
+1 Storrev, Devkarin Lich / Сторрев, Лич-Девкарен war NM ru 31 
+2 Awakening of Vitu-Ghazi / Пробуждение Виту-Гази war SP ru 25 
+1 God-Eternal Rhonas / Вековечный Бог Ронас war NM ru 428 
+1 Planewide Celebration / Всемирное Торжество war NM jp 39 
+3 Planewide Celebration / Всемирное Торжество war SP ru 37 
+1 Planewide Celebration / Всемирное Торжество war NM ru 39 
+1 Pollenbright Druid / Друид Светлой Пыльцы war NM ru FOIL 56 
+1 Chandra, Fire Artisan / Чандра, Мастерица Пламени war NM ru 61 
+2 Krenko, Tin Street Kingpin / Кренко, Гроза Улицы Жестянщиков war SP ru 103 
+1 Commence the Endgame / Исполнение Замысла war NM ru 25 
+1 Fblthp, the Lost / Фыблтып, Заблудившийся war NM ru 31 
+1 Silent Submersible / Бесшумная Субмарина war NM ru 22 
+1 Spark Double / Двойник Искры war NM ru 531 
+1 Bioessence Hydra / Гидра Биоэссенции war NM ru FOIL 58 
+2 Bioessence Hydra / Гидра Биоэссенции war NM ru 25 
+2 Tamiyo, Collector of Tales / Тамиё, Собирательница Историй war NM ru 67 
+1 Role Reversal / Обмен Ролями war NM ru 25 
+1 Bond of Discipline / Узы Дисциплины war NM ru FOIL 31 
+1 Defiant Strike / Дерзкий Удар war NM ru FOIL 31 
+4 Feather, the Redeemed / Перышко, Искупившая Грехи war SP ru 59 
+1 Mobilized District / Мобилизованный Район war NM ru 31 
+1 Quest for the Nihil Stone / Поиски Камня Нигиляции wwk SP ru 258 
+1 Strength of the Tajuru / Сила Таджуру wwk SP ru 39 
+1 Revel in Riches / Баснословное Богатство xln SP en 1105 
+1 Revel in Riches / Баснословное Богатство xln SP ru 1105 
+2 Deathgorge Scavenger / Трупожор-Падальщик xln NM ru 44 
+1 Emperor's Vanguard / Императорский Авангард xln NM ru 23 
+1 Ripjaw Raptor / Крепкозубый Раптор xln NM en 141 
+1 Repeating Barrage / Нескончаемый Обстрел xln SP ru 21 
+1 Vance's Blasting Cannons / Палящие Пушки Вэнс xln SP ru 30 
+1 Arcane Adaptation / Магическая Адаптация xln NM en 188 
+2 Arcane Adaptation / Магическая Адаптация xln NM ru 188 
+1 Entrancing Melody / Чарующая Мелодия xln SP ru 29 
+1 Kopala, Warden of Waves / Копалла, Хранитель Волн xln NM en 47 
+1 Spell Swindle / Стянуть Заклинание xln SP ru 239 
+1 Tocatli Honor Guard / Почетный Караул Токатли xln SP ru 31 
+1 Tocatli Honor Guard / Почетный Караул Токатли xln NM ru 31 
+1 Shadowed Caravel / Каравелла Теней xln SP ru 21 
+1 Gigantiform / Гигантоформа zen SP ru 26 
+1 Predatory Urge / Хищный Порыв zen SP en 23 
+1 Predatory Urge / Хищный Порыв zen SP ru 23 
+1 Predatory Urge / Хищный Порыв zen NM ru 23 
+1 Rampaging Baloths / Неистовые Балоты zen SP ru 76 
+1 Scute Mob / Толпа Скутов zen SP ru 60 
+2 Turntimber Ranger / Лесничий Криволесья zen SP ru 57 
+1 Sphinx of Jwar Isle / Сфинкс с Острова Джвар zen SP ru 22 
+1 Sphinx of Lost Truths / Сфинкс Утраченных Истин zen SP ru 28 
+1 Zagras, Thief of Heartbeats / Заграс, Похититель Сердцебиения znr NM ru 31 
+1 Ancient Greenwarden / Древний Зеленый Страж znr NM ru 707 
+1 Tajuru Paragon / Эталон Таджуру znr NM ru 26 
+1 Kargan Intimidator / Каргский Устрашитель znr NM ru 22 
+1 Relic Robber / Похититель Реликвий znr NM ru 21 
+1 Coralhelm Chronicler / Летописец Кораллового Шлема znr NM en 22 
+1 Verazol, the Split Current / Веразол, Разделяющий Течения znr NM ru 25 
+1 Archpriest of Iona / Архижрец Ионы znr NM ru 22 
+1 Tazri, Beacon of Unity / Тазри, Светоч Единства znr NM ru 47 
+1 Kargan Warleader znr SP ru FOIL 25 

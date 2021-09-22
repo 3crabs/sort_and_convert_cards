@@ -2,7 +2,7 @@ from threading import Thread
 from tkinter import *
 from tkinter import filedialog as fd
 import functools
-from openpyxl import *
+from openpyxl import load_workbook
 
 template_file_path = "../resources/Шаблон.xlsx"
 window = Tk()
@@ -17,7 +17,7 @@ rows = []
 
 class Row:
 
-    def __init__(self, amount, eng_name, rus_name, card_set, condition, lang, foil, price):
+    def __init__(self, amount, eng_name, rus_name, card_set, condition, lang, foil, price, color):
         self.amount = amount
         self.eng_name = eng_name
         self.rus_name = rus_name
@@ -26,9 +26,23 @@ class Row:
         self.lang = lang
         self.foil = foil
         self.price = price
+        self.color = color
 
     def __str__(self) -> str:
-        return f'{self.amount} {self.eng_name} {self.rus_name} {self.card_set} {self.condition} {self.lang} {self.foil} {self.price}'
+        return f'{self.amount} {self.eng_name} {self.rus_name} {self.card_set} ' \
+               f'{self.condition} {self.lang} {self.foil} {self.price}'
+
+    def format_output(self):
+        rus_name = " "
+        foil = " "
+
+        if self.foil == 1:
+            foil = " FOIL "
+
+        if self.rus_name != "---":
+            rus_name = f" / {self.rus_name} "
+        return f'{self.amount} {self.eng_name}{rus_name}{self.card_set} ' \
+               f'{self.condition} {self.lang}{foil}{self.price} \n'
 
 
 def check_button_state():
@@ -58,34 +72,37 @@ def sort_cards(first_row, second_row):
     if first_row.card_set > second_row.card_set:
         return 1
     if first_row.card_set == second_row.card_set:
-        if first_row.eng_name > second_row.eng_name:
+        if first_row.color > second_row.color:
             return 1
+        elif first_row.color == second_row.color:
+            if first_row.eng_name > second_row.eng_name:
+                return 1
     return -1
 
 
 def work():
     global message
-    # start_time = time()
     message.set('Чтение данных')
     workbook = load_workbook(file_path.get())
     message.set('Чтение данных завершено')
     ws = workbook.worksheets[0]
     i = 2
     while ws[i][0].value is not None:
+        color = ws[i][4].value
+        if color is None:
+            color = 'Z'
         r = Row(ws[i][10].value, ws[i][0].value, ws[i][1].value,
                 ws[i][3].value, ws[i][7].value, ws[i][6].value,
-                ws[i][8].value, ws[i][11].value)
+                ws[i][8].value, ws[i][11].value, color)
         rows.append(r)
         i += 1
 
-    for i in range(len(rows)):
-        print(rows[i].card_set, rows[i].eng_name)
-
     rows.sort(key=functools.cmp_to_key(sort_cards))
 
-    print("-----------------------------------------")
-    for i in range(len(rows)):
-        print(rows[i].card_set, rows[i].eng_name)
+    with open(dir_path.get() + r'/cards.txt', 'w', encoding='utf-8') as txt_file:
+        for i in range(len(rows)):
+            txt_file.write(rows[i].format_output())
+        message.set('Готово!')
 
 
 def start():
@@ -108,7 +125,7 @@ def main():
     global message_label
 
     window.title("Нормально делаем")
-    window.geometry('332x111')
+    window.geometry('333x111')
 
     file_label = Label(text="Путь к файлу:")
     file_label.grid(row=0, column=0, padx=5, pady=5, sticky="w")
