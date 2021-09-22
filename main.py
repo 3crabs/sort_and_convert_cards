@@ -20,8 +20,8 @@ class Row:
     def __init__(self, amount, eng_name, rus_name, card_set, condition, lang, foil, price):
         self.amount = amount
         self.eng_name = eng_name
-        self.rus_name = rus_name,
-        self.card_set = card_set,
+        self.rus_name = rus_name
+        self.card_set = card_set
         self.condition = condition
         self.lang = lang
         self.foil = foil
@@ -55,10 +55,12 @@ def select_file():
 
 
 def sort_cards(first_row, second_row):
-    print(first_row.card_set)
     if first_row.card_set > second_row.card_set:
-        return True
-    return False
+        return 1
+    if first_row.card_set == second_row.card_set:
+        if first_row.eng_name > second_row.eng_name:
+            return 1
+    return -1
 
 
 def work():
@@ -69,19 +71,21 @@ def work():
     message.set('Чтение данных завершено')
     ws = workbook.worksheets[0]
     i = 2
-    while ws[i][0] is not None:
+    while ws[i][0].value is not None:
         r = Row(ws[i][10].value, ws[i][0].value, ws[i][1].value,
                 ws[i][3].value, ws[i][7].value, ws[i][6].value,
                 ws[i][8].value, ws[i][11].value)
         rows.append(r)
         i += 1
-        if i > 10:
-            break
 
-    # rows.sort(key=functools.cmp_to_key(sort_cards))
+    for i in range(len(rows)):
+        print(rows[i].card_set, rows[i].eng_name)
 
-    for i in range(9):
-        print(rows[i])
+    rows.sort(key=functools.cmp_to_key(sort_cards))
+
+    print("-----------------------------------------")
+    for i in range(len(rows)):
+        print(rows[i].card_set, rows[i].eng_name)
 
 
 def start():
