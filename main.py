@@ -111,7 +111,7 @@ def work():
     #     i += 1
     #     print(i)
 
-    with open(file_path.get()) as f:
+    with open(file_path.get(), encoding='utf-8') as f:
         reader = csv.reader(f, delimiter=";")
         next(reader)
         for row in reader:
