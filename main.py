@@ -66,19 +66,19 @@ def select_file():
     global file_path
 
     # file_name = fd.askopenfile(title='Выберите файл данных', filetypes=[('xlsx files', ['.xlsx'])])
-
     file_name = fd.askopenfile(title='Выберите файл данных', filetypes=[('csv files', ['.csv'])])
     file_path.set(file_name.name)
     check_button_state()
 
 
 def sort_cards(first_row, second_row):
-    if first_row.card_set > second_row.card_set:
+    # цвет -> цена -> eng_name
+    if first_row.color > second_row.color:
         return 1
-    if first_row.card_set == second_row.card_set:
-        if first_row.color > second_row.color:
+    if first_row.color == second_row.color:
+        if first_row.price > second_row.price:
             return 1
-        elif first_row.color == second_row.color:
+        elif first_row.price == second_row.price:
             if first_row.eng_name > second_row.eng_name:
                 return 1
     return -1
