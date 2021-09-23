@@ -15,6 +15,16 @@ message_label = None
 
 rows = []
 
+color_map = {
+    "W": [0, "White"],
+    "U": [1, "Blue"],
+    "B": [2, "Black"],
+    "R": [3, "Red"],
+    "G": [4, "Green"],
+    "Z": [5, "Colorless / Lands"],
+    "mc": [6, "Multicolor"]
+}
+
 
 class Row:
 
@@ -46,6 +56,14 @@ class Row:
                f'{self.condition} {self.lang}{foil}{self.price} \n'
 
 
+def get_color_value(color):
+    if color == "":
+        color = 'Z'
+    if len(color) > 1:
+        color = "mc"
+    return color_map[color]
+
+
 def check_button_state():
     global start_button
     start_button["state"] = NORMAL
@@ -73,14 +91,17 @@ def select_file():
 
 def sort_cards(first_row, second_row):
     # цвет -> цена -> eng_name
-    if first_row.color > second_row.color:
+    if first_row.card_set > second_row.card_set:
         return 1
-    if first_row.color == second_row.color:
-        if first_row.price > second_row.price:
+    if first_row.card_set == second_row.card_set:
+        if first_row.color[0] > second_row.color[0]:
             return 1
-        elif first_row.price == second_row.price:
-            if first_row.eng_name > second_row.eng_name:
+        elif first_row.color[0] == second_row.color[0]:
+            if first_row.price > second_row.price:
                 return 1
+            elif first_row.price == second_row.price:
+                if first_row.eng_name > second_row.eng_name:
+                    return 1
     return -1
 
 
@@ -115,18 +136,25 @@ def work():
         reader = csv.reader(f, delimiter=";")
         next(reader)
         for row in reader:
-            color = row[4]
-            if color is None:
-                color = 'Z'
             r = Row(row[10], row[0], row[1],
                     row[3], row[7], row[6],
-                    row[8], row[11], color)
+                    row[8], row[11], get_color_value(row[4]))
             rows.append(r)
 
     rows.sort(key=functools.cmp_to_key(sort_cards))
 
     with open(dir_path.get() + r'/cards.txt', 'w', encoding='utf-8') as txt_file:
+        prev_card_set = None
+        prev_card_color = None
         for i in range(len(rows)):
+            if rows[i].card_set != prev_card_set:
+                prev_card_set = rows[i].card_set
+                txt_file.write(f"\n{rows[i].card_set}\n")
+
+            if rows[i].color[1] != prev_card_color:
+                prev_card_color = rows[i].color[1]
+                txt_file.write(f"{rows[i].color[1]}\n")
+
             txt_file.write(rows[i].format_output())
         message.set('Готово!')
 
