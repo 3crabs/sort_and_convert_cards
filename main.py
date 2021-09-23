@@ -1,3 +1,4 @@
+import tkinter.ttk
 from threading import Thread
 from tkinter import *
 from tkinter import filedialog as fd
@@ -82,9 +83,19 @@ def sort_cards(first_row, second_row):
 
 def work():
     global message
-    message.set('Чтение данных')
+
+    progress_bar = tkinter.ttk.Progressbar(
+        window,
+        orient='horizontal',
+        mode='indeterminate',
+        length=450,
+    )
+    progress_bar.grid(row=3, column=0, columnspan=3, padx=5, pady=5)
+    progress_bar.start(10)
+
+    message.set('Чтение данных...')
     workbook = load_workbook(file_path.get())
-    message.set('Чтение данных завершено')
+    message.set('Создание файла...')
     ws = workbook.worksheets[0]
     i = 2
     while ws[i][0].value is not None:
@@ -103,6 +114,9 @@ def work():
         for i in range(len(rows)):
             txt_file.write(rows[i].format_output())
         message.set('Готово!')
+
+    progress_bar.stop()
+    progress_bar.grid_remove()
 
 
 def start():
