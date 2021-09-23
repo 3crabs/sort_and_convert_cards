@@ -1,9 +1,9 @@
+import csv
+import functools
 import tkinter.ttk
 from threading import Thread
 from tkinter import *
 from tkinter import filedialog as fd
-import functools
-from openpyxl import load_workbook
 
 template_file_path = "../resources/Шаблон.xlsx"
 window = Tk()
@@ -64,7 +64,10 @@ def select_dir():
 
 def select_file():
     global file_path
-    file_name = fd.askopenfile(title='Выберите файл данных', filetypes=[('xlsx files', ['.xlsx'])])
+
+    # file_name = fd.askopenfile(title='Выберите файл данных', filetypes=[('xlsx files', ['.xlsx'])])
+
+    file_name = fd.askopenfile(title='Выберите файл данных', filetypes=[('csv files', ['.csv'])])
     file_path.set(file_name.name)
     check_button_state()
 
@@ -93,20 +96,32 @@ def work():
     progress_bar.grid(row=3, column=0, columnspan=3, padx=5, pady=5)
     progress_bar.start(10)
 
-    message.set('Чтение данных...')
-    workbook = load_workbook(file_path.get())
-    message.set('Создание файла...')
-    ws = workbook.worksheets[0]
-    i = 2
-    while ws[i][0].value is not None:
-        color = ws[i][4].value
-        if color is None:
-            color = 'Z'
-        r = Row(ws[i][10].value, ws[i][0].value, ws[i][1].value,
-                ws[i][3].value, ws[i][7].value, ws[i][6].value,
-                ws[i][8].value, ws[i][11].value, color)
-        rows.append(r)
-        i += 1
+    # Залупа по экселю
+    # workbook = load_workbook(file_path.get())
+    # ws = workbook.worksheets[0]
+    # i = 2
+    # while ws[i][0].value is not None:
+    #     color = ws[i][4].value
+    #     if color is None:
+    #         color = 'Z'
+    #     r = Row(ws[i][10].value, ws[i][0].value, ws[i][1].value,
+    #             ws[i][3].value, ws[i][7].value, ws[i][6].value,
+    #             ws[i][8].value, ws[i][11].value, color)
+    #     rows.append(r)
+    #     i += 1
+    #     print(i)
+
+    with open(file_path.get()) as f:
+        reader = csv.reader(f, delimiter=";")
+        next(reader)
+        for row in reader:
+            color = row[4]
+            if color is None:
+                color = 'Z'
+            r = Row(row[10], row[0], row[1],
+                    row[3], row[7], row[6],
+                    row[8], row[11], color)
+            rows.append(r)
 
     rows.sort(key=functools.cmp_to_key(sort_cards))
 
