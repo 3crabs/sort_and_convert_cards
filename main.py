@@ -37,7 +37,7 @@ class Row:
         rus_name = " "
         foil = " "
 
-        if self.foil == 1:
+        if self.foil == "1":
             foil = " FOIL "
 
         if self.rus_name != "---":
