@@ -12,6 +12,7 @@ dir_path = StringVar()
 start_button = {}
 message = StringVar()
 message_label = None
+selected_set = StringVar()
 
 rows = []
 
@@ -114,7 +115,7 @@ def work():
         mode='indeterminate',
         length=450,
     )
-    progress_bar.grid(row=3, column=0, columnspan=3, padx=5, pady=5)
+    progress_bar.grid(row=4, column=0, columnspan=3, padx=5, pady=5)
     progress_bar.start(10)
 
     # Залупа по экселю
@@ -142,7 +143,29 @@ def work():
             rows.append(r)
 
     rows.sort(key=functools.cmp_to_key(sort_cards))
+    if selected_set.get():
+        one_set()
+    else:
+        all_sets()
 
+    progress_bar.stop()
+    progress_bar.grid_remove()
+
+
+def one_set():
+    with open(dir_path.get() + r'/one_set_cards.txt', 'w', encoding='utf-8') as txt_file:
+        prev_card_color = None
+        txt_file.write(f"{selected_set.get()}\n")
+        for i in range(len(rows)):
+            if rows[i].card_set == selected_set.get():
+                if rows[i].color[1] != prev_card_color:
+                    prev_card_color = rows[i].color[1]
+                    txt_file.write(f"{rows[i].color[1]}\n")
+                txt_file.write(rows[i].format_output())
+        message.set('Готово!')
+
+
+def all_sets():
     with open(dir_path.get() + r'/cards.txt', 'w', encoding='utf-8') as txt_file:
         prev_card_set = None
         prev_card_color = None
@@ -157,9 +180,6 @@ def work():
 
             txt_file.write(rows[i].format_output())
         message.set('Готово!')
-
-    progress_bar.stop()
-    progress_bar.grid_remove()
 
 
 def start():
@@ -180,9 +200,10 @@ def main():
     global start_button
     global message
     global message_label
+    global selected_set
 
     window.title("Нормально делаем")
-    window.geometry('333x111')
+    window.geometry('333x180')
 
     file_label = Label(text="Путь к файлу:")
     file_label.grid(row=0, column=0, padx=5, pady=5, sticky="w")
@@ -199,13 +220,18 @@ def main():
     dir_button.grid(column=2, row=1, padx=5, pady=5, sticky="e")
 
     message_label = Label(textvariable=message)
-    message_label.grid(row=2, column=0, columnspan=2, padx=5, pady=5, sticky="w")
+    message_label.grid(row=3, column=0, columnspan=2, padx=5, pady=5, sticky="w")
     message.set("Заполните поля, нажмите кнопку."[0:35])
 
     start_button = Button(window, text="Начать", command=start)
-    start_button.grid(column=2, row=2, padx=5, pady=5, sticky="e")
+    start_button.grid(column=2, row=3, padx=5, pady=5, sticky="e")
     start_button["state"] = DISABLED
 
+    selected_set_label = Label(text="Введите сет:")
+    selected_set_label.grid(row=2, column=0, padx=5, pady=5, sticky="w")
+
+    select_set_input = Entry(textvariable=selected_set)
+    select_set_input.grid(row=2, column=1, padx=5, pady=5)
     window.mainloop()
 
 
