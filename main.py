@@ -98,7 +98,7 @@ def sort_cards(first_row, second_row):
         if first_row.color[0] > second_row.color[0]:
             return 1
         elif first_row.color[0] == second_row.color[0]:
-            if first_row.price > second_row.price:
+            if first_row.price < second_row.price:
                 return 1
             elif first_row.price == second_row.price:
                 if first_row.eng_name > second_row.eng_name:
