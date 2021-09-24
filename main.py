@@ -132,6 +132,7 @@ def work():
     #     rows.append(r)
     #     i += 1
     #     print(i)
+
     if len(rows) == 0:
         with open(file_path.get(), encoding='utf-8') as f:
             reader = csv.reader(f, delimiter=";")
@@ -151,6 +152,7 @@ def work():
 
     progress_bar.stop()
     progress_bar.grid_remove()
+    check_button_state()
 
 
 def one_set():
