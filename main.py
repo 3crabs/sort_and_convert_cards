@@ -91,7 +91,7 @@ def select_file():
 
 
 def sort_cards(first_row, second_row):
-    # цвет -> цена -> eng_name
+    # сет -> цвет -> цена -> eng_name
     if first_row.card_set > second_row.card_set:
         return 1
     if first_row.card_set == second_row.card_set:
@@ -140,7 +140,7 @@ def work():
             for row in reader:
                 r = Row(row[10], row[0], row[1],
                         row[3], row[7], row[6],
-                        row[8], row[11], get_color_value(row[4]))
+                        row[8], int(row[11]), get_color_value(row[4]))
                 rows.append(r)
 
         rows.sort(key=functools.cmp_to_key(sort_cards))
