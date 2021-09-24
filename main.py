@@ -7,6 +7,7 @@ from tkinter import filedialog as fd
 
 template_file_path = "../resources/Шаблон.xlsx"
 window = Tk()
+window.eval('tk::PlaceWindow . center')
 file_path = StringVar()
 dir_path = StringVar()
 start_button = {}
