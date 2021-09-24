@@ -17,13 +17,13 @@ selected_set = StringVar()
 rows = []
 
 color_map = {
-    "W": [0, "White"],
-    "U": [1, "Blue"],
-    "B": [2, "Black"],
-    "R": [3, "Red"],
-    "G": [4, "Green"],
-    "Z": [5, "Colorless / Lands"],
-    "mc": [6, "Multicolor"]
+    "W": [0, "\nWhite\n"],
+    "U": [1, "\nBlue\n"],
+    "B": [2, "\nBlack\n"],
+    "R": [3, "\nRed\n"],
+    "G": [4, "\nGreen\n"],
+    "Z": [5, "\nColorless / Lands\n"],
+    "mc": [6, "\nMulticolor\n"]
 }
 
 
