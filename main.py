@@ -132,17 +132,18 @@ def work():
     #     rows.append(r)
     #     i += 1
     #     print(i)
+    if len(rows) == 0:
+        with open(file_path.get(), encoding='utf-8') as f:
+            reader = csv.reader(f, delimiter=";")
+            next(reader)
+            for row in reader:
+                r = Row(row[10], row[0], row[1],
+                        row[3], row[7], row[6],
+                        row[8], row[11], get_color_value(row[4]))
+                rows.append(r)
 
-    with open(file_path.get(), encoding='utf-8') as f:
-        reader = csv.reader(f, delimiter=";")
-        next(reader)
-        for row in reader:
-            r = Row(row[10], row[0], row[1],
-                    row[3], row[7], row[6],
-                    row[8], row[11], get_color_value(row[4]))
-            rows.append(r)
+        rows.sort(key=functools.cmp_to_key(sort_cards))
 
-    rows.sort(key=functools.cmp_to_key(sort_cards))
     if selected_set.get():
         one_set()
     else:
