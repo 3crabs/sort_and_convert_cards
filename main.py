@@ -14,6 +14,7 @@ start_button = {}
 message = StringVar()
 message_label = None
 selected_set = StringVar()
+string_of_sets = StringVar()
 
 rows = []
 
@@ -116,7 +117,7 @@ def work():
         mode='indeterminate',
         length=450,
     )
-    progress_bar.grid(row=4, column=0, columnspan=3, padx=5, pady=5)
+    progress_bar.grid(row=5, column=0, columnspan=3, padx=5, pady=5)
     progress_bar.start(10)
 
     # Залупа по экселю
@@ -138,11 +139,13 @@ def work():
         with open(file_path.get(), encoding='utf-8') as f:
             reader = csv.reader(f, delimiter=";")
             next(reader)
+            useless_sets = string_of_sets.get().split(',')
             for row in reader:
-                r = Row(row[10], row[0], row[1],
-                        row[3], row[7], row[6],
-                        row[8], int(row[11]), get_color_value(row[4]))
-                rows.append(r)
+                if row[3] not in useless_sets:
+                    r = Row(row[10], row[0], row[1],
+                            row[3], row[7], row[6],
+                            row[8], int(row[11]), get_color_value(row[4]))
+                    rows.append(r)
 
         rows.sort(key=functools.cmp_to_key(sort_cards))
 
@@ -205,9 +208,10 @@ def main():
     global message
     global message_label
     global selected_set
+    global string_of_sets
 
     window.title("Нормально делаем")
-    window.geometry('333x180')
+    window.geometry('350x180')
 
     file_label = Label(text="Путь к файлу:")
     file_label.grid(row=0, column=0, padx=5, pady=5, sticky="w")
@@ -224,11 +228,11 @@ def main():
     dir_button.grid(column=2, row=1, padx=5, pady=5, sticky="e")
 
     message_label = Label(textvariable=message)
-    message_label.grid(row=3, column=0, columnspan=2, padx=5, pady=5, sticky="w")
+    message_label.grid(row=4, column=0, columnspan=2, padx=5, pady=5, sticky="w")
     message.set("Заполните поля, нажмите кнопку."[0:35])
 
     start_button = Button(window, text="Начать", command=start)
-    start_button.grid(column=2, row=3, padx=5, pady=5, sticky="e")
+    start_button.grid(column=2, row=4, padx=5, pady=5, sticky="e")
     start_button["state"] = DISABLED
 
     selected_set_label = Label(text="Введите сет:")
@@ -236,6 +240,13 @@ def main():
 
     select_set_input = Entry(textvariable=selected_set)
     select_set_input.grid(row=2, column=1, padx=5, pady=5)
+
+    string_of_sets_label = Label(text="Ненужные сеты:")
+    string_of_sets_label.grid(row=3, column=0, padx=5, pady=5, sticky="w")
+
+    string_of_sets_input = Entry(textvariable=string_of_sets)
+    string_of_sets_input.grid(row=3, column=1, padx=5, pady=5)
+
     window.mainloop()
 
 
