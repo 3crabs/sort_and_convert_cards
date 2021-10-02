@@ -93,18 +93,15 @@ def select_file():
 
 
 def sort_cards(first_row, second_row):
-    # сет -> цвет -> цена -> eng_name
-    if first_row.card_set > second_row.card_set:
+    # цвет -> цена -> eng_name
+    if first_row.color[0] > second_row.color[0]:
         return 1
-    if first_row.card_set == second_row.card_set:
-        if first_row.color[0] > second_row.color[0]:
+    elif first_row.color[0] == second_row.color[0]:
+        if first_row.price < second_row.price:
             return 1
-        elif first_row.color[0] == second_row.color[0]:
-            if first_row.price < second_row.price:
+        elif first_row.price == second_row.price:
+            if first_row.eng_name > second_row.eng_name:
                 return 1
-            elif first_row.price == second_row.price:
-                if first_row.eng_name > second_row.eng_name:
-                    return 1
     return -1
 
 
@@ -177,10 +174,6 @@ def all_sets():
         prev_card_set = None
         prev_card_color = None
         for i in range(len(rows)):
-            if rows[i].card_set != prev_card_set:
-                prev_card_set = rows[i].card_set
-                txt_file.write(f"\n{rows[i].card_set}\n")
-
             if rows[i].color[1] != prev_card_color:
                 prev_card_color = rows[i].color[1]
                 txt_file.write(f"{rows[i].color[1]}\n")
